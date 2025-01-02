@@ -1,0 +1,11 @@
+IPL_Final_Data.csv
+IPL_PlayerPerformance.csv
+IPL_TeamPerformance.csv
+
+*.json
+
+# .pkl Files
+*.pkl
+
+.ipynb_checkpoints
+
